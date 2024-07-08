@@ -39,4 +39,4 @@ All GIFS are outputs for test dataset.
 ## Findings:
 #using SSIM is much better than MAE as loss function. Output images are more confident when SSIM is used.
 
-#For MNIST dataset, even 15 images per class is enough to train a decent model. This is due to simplicity of the dataset. The shapes of numbers are simple and the mnist image size is small (28x28) therefore the training data need not be large though it is preferred.
+# For MNIST dataset, even 15 images per class is enough to train a decent model. This is due to simplicity of the dataset. The shapes of numbers are simple and the mnist image size is small (28x28) therefore the training data need not be large though it is preferred.
