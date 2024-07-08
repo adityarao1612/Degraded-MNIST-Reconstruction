@@ -5,9 +5,10 @@ Mnist images are degraded using a custom mask to remove parts of image which is 
 
 All GIFS are outputs for test dataset.
 
+### LR - 0.005
+### Epochs - 200
+
 ## Training size (1000 images - 100 images/class)
-## LR - 0.005
-## Epochs - 200
 
 ### Loss Function- MAE
 
