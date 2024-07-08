@@ -18,10 +18,6 @@ All GIFS are outputs for test dataset.
 
 ![gif Ssim](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/8ad11d8a-9637-48f2-838d-10c0c6bef619)
 
-### Loss Function- MAE + SSIM
-
-![gif ssim+MAE](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/b0701694-a2e2-4540-a7fa-5a98c0006248)
-
 
 ## Training Size (150 images - 15 images / class )
 
@@ -32,11 +28,6 @@ All GIFS are outputs for test dataset.
 ### Loss Function- SSIM
 
 ![gid Smim 150 ](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/8bfea7ae-68fa-4e00-8831-d213fdef7c61)
-
-### Loss Function- MAE + SSIM
-
-![gif Ssim + MAE 150](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/2565810f-5bee-4284-b9b9-13008254705c)
-
 
 ## Findings:
 
