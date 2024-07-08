@@ -12,28 +12,30 @@ All GIFS are outputs for test dataset.
 
 ### Loss Function- MAE
 
-![gif MAE](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/cc7799af-117f-47f1-b8c6-795ebf7aabf4)
+![gif MAE](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/c0486273-12c1-4f83-a7ad-41c22ab6387c)
 
 ### Loss Function- SSIM
 
-![gif Smim](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/cb553a5e-5209-4867-a9e0-0b277db9bb2b)
-
+![gif Ssim](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/8ad11d8a-9637-48f2-838d-10c0c6bef619)
 
 ### Loss Function- MAE + SSIM
 
-![gif smim+MAE](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/d26ca845-d754-49a1-ba34-61850f0c241a)
+![gif ssim+MAE](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/b0701694-a2e2-4540-a7fa-5a98c0006248)
 
 
 ## Training Size (150 images - 15 images / class )
 
 ### Loss Function- MAE
-![gif MAE 150training images](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/bf7e8a4a-fc32-4b43-a7d8-e67a8ebef367)
+
+![gif MAE 150training images](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/2bb19d2c-92ba-4b50-a06e-a88e2438ed64)
 
 ### Loss Function- SSIM
-![gid Smim 150 ](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/f8d3048d-a0e5-4524-a351-b42bb34633de)
+
+![gid Smim 150 ](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/8bfea7ae-68fa-4e00-8831-d213fdef7c61)
 
 ### Loss Function- MAE + SSIM
-![gif Smim + MAE 150](https://github.com/adityarao1612/degraded-MNIST-reconstruction/assets/92964413/6d9d1167-43f4-43cd-872f-48d00ca5a84a)
+
+![gif Ssim + MAE 150](https://github.com/adityarao1612/Degraded-MNIST-Reconstruction/assets/92964413/2565810f-5bee-4284-b9b9-13008254705c)
 
 
 ## Findings:
