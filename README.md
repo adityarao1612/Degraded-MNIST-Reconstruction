@@ -1,4 +1,4 @@
-# degraded-MNIST-reconstruction
+# Degraded-MNIST-Reconstruction
 reconstruction of degraded mnist numbers using Conditional Convolutional Auto Encoder. Experimenting with different loss functions, training size and architecture.
 
 Mnist images are degraded using a custom mask to remove parts of image which is then fed to the model to train it to reconstruct it to the original image.
